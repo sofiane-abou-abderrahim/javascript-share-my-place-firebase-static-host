@@ -9,7 +9,7 @@
     "build": "set NODE_OPTIONS=--openssl-legacy-provider && webpack",
     "build:prod": "set NODE_OPTIONS=--openssl-legacy-provider &&webpack --config webpack.config.prod.js"
   },
-  "author": "Maximilian Schwarzmüller",
+  "author": "Sofiane Abou Abderrahim",
   "license": "ISC",
   "browserslist": "> 0.5%",
   "devDependencies": {
